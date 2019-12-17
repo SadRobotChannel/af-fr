@@ -32,17 +32,6 @@ Still, the following faucets sites remain loyal to their members and continue di
 - <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
 - <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
 
-<div id="nav">
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-    <a href="/pricing">Pricing</a>
-</div>
-<script type="text/javascript">
-    mixpanel.track_links("#nav a", "click nav link", {
-        "referrer": document.referrer
-    });
-</script>
-
 What is your experience with crypto faucets? Have you tried any of them? Do you have a favorite site?
 
 <div id="commento"></div>

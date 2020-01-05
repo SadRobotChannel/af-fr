@@ -14,32 +14,30 @@ Si vous êtes nouveau dans les robinets cryptographiques, ce site est fait pour 
 Continuer la lecture: <a href="https://fr.all-faucets.com/daily/2019/12/12/index.html">Débuter avec les robinets Bitcoin</a>.
 
 ---
-#### Robinets préférés de 2019
+#### 2019 en résumé
 
-Beaucoup de choses avaient changé depuis la première publication de ce site Web. Premièrement, le prix du Bitcoin est passé d'environ 3 500 USD à plus de 10 000 USD, atteignant parfois jusqu'à 12 ou 13 milliers de dollars américains. Une telle augmentation de valeur avait mis un grand nombre de sites Web de robinets à la faillite, car ils ne pouvaient pas se permettre de donner les récompenses promises. Beaucoup se sont déconnectés sans distribuer les montants dans vos portefeuilles, volant ainsi simplement votre argent. Ce sont les risques que vous devez connaître et accepter lorsque vous investissez votre temps ou votre argent dans des services liés à la crypto-monnaie.
+L'année 2019 a eu un effet dévastateur sur les robinets de crypto-monnaie. Des centaines de sites de robinets sont apparus sur Internet, alors que l'année commençait avec le prix du bitcoin dans une fourchette de 3 500 USD. Ensuite, avec un prix BTC atteignant plus de 10000 USD atteignant parfois jusqu'à 12 ou 13 milliers de dollars américains, la plupart des sites ont fermé ou rendu leurs interfaces inutilisables (surcharge de clics et de publicités).
 
-Pourtant, les sites de robinets suivants restent fidèles à leurs membres et continuent de distribuer gratuitement des satoshi:
+Une augmentation de la valeur cryptographique que nous avons constatée au milieu de 2019 a mis un grand nombre de sites Web de robinets hors service, car ils ne pouvaient pas se permettre de donner les récompenses promises. Beaucoup se sont déconnectés sans distribuer les montants dans vos portefeuilles, volant ainsi simplement votre argent gagné. Ce sont les risques que vous devez connaître et accepter lorsque vous investissez votre temps dans des services liés aux robinets.
 
-- <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
-- <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
-- <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a>
-- <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a>
-- <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a>
-- <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a>
-- <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a>
-- <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a>
-- <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a>
-- <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
-- <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
+---
+#### Robinets Crypto qui fonctionnent toujours en 2020
+
+Nous recommandons les 11 sites de robinets suivants. Ils restent fidèles à leurs membres et continuent de distribuer des pièces gratuites:
+
+1. <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a> - Site de surf payant 2
+2. <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a> - Un robinet horaire avec intérêt
+3. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a> - Réclamez toutes les 30 minutes, Altcoins principalement, jalonnement
+4. <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a> - Un robinet horaire avec intérêt
+5. <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> - Jeu de robinet Crypto
+6. <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> - Jeu de robinet Crypto
+7. <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> - Jeu de robinet Crypto
+8. <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a> - An autofaucet
+9. <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a> - Un robinet horaire avec intérêt
+10. <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a> - Un robinet horaire avec intérêt
+11. <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a> - Jeu de robinet Crypto
 
 Quelle est votre expérience avec les robinets cryptographiques? Avez-vous essayé l'un d'eux? Avez-vous un site préféré?
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
-
----
-#### Rejoignez notre nouvelle communauté Crypto
-
-Ce site, all-faucets.com se concentre spécifiquement sur les robinets de crypto-monnaie. Et bien que le nom de domaine implique que nous répertorions "tous" les robinets, en réalité, il n'y a qu'une poignée de bons robinets qui valent votre temps et vos efforts. Cependant, il existe de nombreuses autres façons de gagner de la crypto-monnaie - extraction, jalonnement, introductions en bourse et parachutages, emplois cryto, etc. Il existe de nombreuses opportunités, mais vous avez besoin d'informations de qualité pour utiliser ces opportunités à votre avantage.
-
-C'est pour cette raison que j'ai créé un nouveau site communautaire, <a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. Le monde de la cryptographie va bien au-delà des robinets cryptographiques! Rejoignez-moi pour créer une crypto-communauté intelligente sur <i>StaleBlock.com</i>.
